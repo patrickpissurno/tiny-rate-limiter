@@ -1,11 +1,11 @@
 {
-  "name": "async-rate-limiter",
+  "name": "tiny-rate-limiter",
   "version": "1.0.0",
   "description": "Allows you to easily limit outgoing API requests (and more). Dependency free!",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/patrickpissurno/async-rate-limiter.git"
+    "url": "git+https://github.com/patrickpissurno/tiny-rate-limiter.git"
   },
   "keywords": [
     "rate",
@@ -13,12 +13,13 @@
     "limiter",
     "async",
     "bloat",
-    "free"
+    "free",
+    "tiny"
   ],
   "author": "Patrick Pissurno",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/patrickpissurno/async-rate-limiter/issues"
+    "url": "https://github.com/patrickpissurno/tiny-rate-limiter/issues"
   },
-  "homepage": "https://github.com/patrickpissurno/async-rate-limiter#readme"
+  "homepage": "https://github.com/patrickpissurno/tiny-rate-limiter#readme"
 }

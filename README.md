@@ -1,21 +1,21 @@
-# async-rate-limiter
-[![npm-version](https://img.shields.io/npm/v/async-rate-limiter.svg)](https://www.npmjs.com/package/async-rate-limiter)
-[![known vulnerabilities](https://snyk.io/test/github/patrickpissurno/async-rate-limiter/badge.svg)](https://snyk.io/test/github/patrickpissurno/async-rate-limiter)
-[![downloads](https://img.shields.io/npm/dt/async-rate-limiter.svg)](http://npm-stats.com/~packages/async-rate-limiter)
-[![license](https://img.shields.io/github/license/patrickpissurno/async-rate-limiter.svg?maxAge=1800)](https://github.com/patrickpissurno/async-rate-limiter/blob/master/LICENSE)
+# tiny-rate-limiter
+[![npm-version](https://img.shields.io/npm/v/tiny-rate-limiter.svg)](https://www.npmjs.com/package/tiny-rate-limiter)
+[![known vulnerabilities](https://snyk.io/test/github/patrickpissurno/tiny-rate-limiter/badge.svg)](https://snyk.io/test/github/patrickpissurno/tiny-rate-limiter)
+[![downloads](https://img.shields.io/npm/dt/tiny-rate-limiter.svg)](http://npm-stats.com/~packages/tiny-rate-limiter)
+[![license](https://img.shields.io/github/license/patrickpissurno/tiny-rate-limiter.svg?maxAge=1800)](https://github.com/patrickpissurno/tiny-rate-limiter/blob/master/LICENSE)
 
 Allows you to easily limit outgoing API requests (and more). Dependency free!
 
 ## Install
 
 ```
-npm i async-rate-limiter
+npm i tiny-rate-limiter
 ```
 
 ## Importing
 
 ```js
-const rateLimiter = require('async-rate-limiter');
+const rateLimiter = require('tiny-rate-limiter');
 ```
 
 ## How to use
