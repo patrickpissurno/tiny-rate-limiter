@@ -1,0 +1,24 @@
+{
+  "name": "async-rate-limiter",
+  "version": "1.0.0",
+  "description": "Allows you to easily limit outgoing API requests (and more). Dependency free!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickpissurno/async-rate-limiter.git"
+  },
+  "keywords": [
+    "rate",
+    "limit",
+    "limiter",
+    "async",
+    "bloat",
+    "free"
+  ],
+  "author": "Patrick Pissurno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patrickpissurno/async-rate-limiter/issues"
+  },
+  "homepage": "https://github.com/patrickpissurno/async-rate-limiter#readme"
+}
