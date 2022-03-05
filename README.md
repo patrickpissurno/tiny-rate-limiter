@@ -35,10 +35,10 @@ async function someFunction(){
 Real world:
 
 ```js
-    async function someFunction(){
-        await rateLimiter('anything', 100, 1000);
-        //from here on code is guaranteed to only execute at most 100 times per second
-    }
+async function someFunction(){
+    await rateLimiter('anything', 100, 1000);
+    //from here on code is guaranteed to only execute at most 100 times per second
+}
 ```
 
 ## What is a token bucket
