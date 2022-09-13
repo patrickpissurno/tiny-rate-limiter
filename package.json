@@ -1,6 +1,6 @@
 {
   "name": "tiny-rate-limiter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Allows you to easily limit outgoing API requests (and more). Dependency free!",
   "main": "index.js",
   "repository": {
