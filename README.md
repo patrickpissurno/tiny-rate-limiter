@@ -73,7 +73,7 @@ Although it's not been benchmarked extensively, due to the way its implemented, 
 
 MIT License
 
-Copyright (c) 2022 Patrick Pissurno
+Copyright (c) 2022-2025 Patrick Pissurno
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
